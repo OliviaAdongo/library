@@ -3,7 +3,7 @@ import React from "react";
 function Admin(){
 return(
     <div>
-        <h2>Admin message</h2>
+        <h2>Admin message welcoming</h2>
 
     </div>
 )

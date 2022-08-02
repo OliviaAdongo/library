@@ -2,10 +2,11 @@ import React from "react";
 
 function Nav(){
 return(
-    <div>
+    <div className="navbar">
         <h2>Navigation Pane</h2>
+        
 
-    </div>
+    </div> 
 )
 }
 export  default Nav;
